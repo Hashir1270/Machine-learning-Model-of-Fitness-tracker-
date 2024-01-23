@@ -1,2 +1,3 @@
-# Machine-learning-Model-of-Fitness-tracker-
-Predict Exercise &amp; Count Reps! ⚡️ This model uses sensor data (like smartwatch/tracker) to:  Identify different exercises with accurate multi-class prediction. Track &amp; count repetitions for each exercise, giving you deeper workout insights.   Explore the GitHub repo to run the code, &amp; contribute
+## Data Science Project Template
+
+You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
